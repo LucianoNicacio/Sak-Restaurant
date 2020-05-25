@@ -62,7 +62,7 @@ body {
   position: relative;
 }
 .banner {
-  color: var(--mainWhite);
+  color: var(--mainBlack);
   margin-top: -4rem;
 }
 .banner-title {
